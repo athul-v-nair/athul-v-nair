@@ -30,21 +30,22 @@ I'm a software engineer with full-stack development experience, now focused on b
 - Built a transformer model from scratch using PyTorch for next-token prediction
 - Implemented attention mechanisms, positional encoding, and layer normalization
 - Designed MLOps pipeline for model training, versioning, and deployment
-- **Tech Stack**: PyTorch, Hugging Face, Python, MLOps tools
+- Implemented inference pipeline and API serving using FastAPI
+- **Tech Stack**: PyTorch, Hugging Face, Python, FastAPI, Docker
 
 ### Immersify
 **Immersive Reading Experience for Kids & Visually Impaired (Hackathon Project)**
-- Developed an AI-powered app that creates immersive audio experiences during read-aloud sessions
+- Developed an AI-powered app that creates immersive audio experiences for kids and blind during read-aloud sessions
 - Implemented real-time sound detection to trigger contextual audio (e.g., rain sounds when "rain" is read)
 - Designed for accessibility, enhancing engagement for children and blind readers
-- **Tech Stack**: AWS Bedrock, AWS Lambda, Python, Audio Processing APIs
+- **Tech Stack**: AWS Bedrock, AWS S3, AWS Transcribe, Nodejs, React, Kaggle
 
 ### Contract Management System
 **Enterprise Contract & Revenue Tracking Platform**
 - Built a full-stack SaaS solution for enterprise contract lifecycle management
 - Implemented CRUD operations, revenue projection dashboards, SSO authentication, and role-based access control
 - Delivered actionable insights through analytics dashboards for business decision-making
-- **Tech Stack**: React.js, Laravel, PHP, MySQL, REST APIs
+- **Tech Stack**: React.js, Laravel, MySQL, REST APIs, Google Drive API
 
 ### [Perceptron From Scratch](https://github.com/athul-v-nair/perceptron-from-scratch)
 **Neural Network Fundamentals**
@@ -65,7 +66,7 @@ I'm a software engineer with full-stack development experience, now focused on b
 - **Languages**: Python, JavaScript, TypeScript, PHP
 - **Web**: React.js, Next.js, Laravel
 - **Database**: MySQL
-- **DevOps**: Docker, Git, Postman, Jira
+- **Others**: Docker, Git, Postman, Jira
 
 **Domain Experience**
 - Large-scale enterprise analytics implementation (Adobe Experience Platform)
