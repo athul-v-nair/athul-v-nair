@@ -1,87 +1,113 @@
-<h2 align="left">Hi 👋! My name is Athul V Nair and I'm a Full Stack Developer, from India.</h2>
+# Hi, I'm Athul V Nair 👋
 
-###
+**Software Engineer | AI/ML Engineer | Building intelligent systems with NLP, LLMs & Agentic AI**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="30" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/magento/magento-original.svg" height="30" alt="magento logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/less/less-plain-wordmark.svg" height="30" alt="less logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-</div>
+I'm a software engineer with full-stack development experience, now focused on building production-ready AI/ML solutions. My expertise spans from transformer architectures and LLMs to MLOps pipelines, with a strong foundation in both development and client engagement.
 
-###
+---
 
-<div align="left">
-  <a href="https://www.discordapp.com/users/445840585408905216" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="https://mail.google.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/athul-v-nair-dev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/19504260/athul-v-nair" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://www.x.com/athul_vn" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
+## 🎯 What I Do
 
-###
+- **AI/ML Engineering**: Designing and implementing deep learning models, particularly in NLP and Large Language Models
+- **Production ML**: Building end-to-end ML workflows with focus on RAG systems, agentic AI, and MLOps best practices
+- **Client Solutions**: Leveraging experience in enterprise web analytics and full-stack development to deliver impactful AI solutions
 
-<br clear="both">
+---
 
-<img src="https://raw.githubusercontent.com/athul-v-nair/athul-v-nair/output/snake.svg" alt="Snake animation" />
+## 🔬 Current Focus
 
-###
+- Advanced transformer architectures & LLMs
+- Retrieval-Augmented Generation (RAG) systems
+- Production-ready Agentic AI applications
+- MLOps tooling and deployment strategies
+
+---
+
+## 🚀 Featured Projects
+
+### [Text Generation MLOps](https://github.com/athul-v-nair/text-generation-mlops)
+**Decoder-Only Transformer for Text Generation**
+- Built a transformer model from scratch using PyTorch for next-token prediction
+- Implemented attention mechanisms, positional encoding, and layer normalization
+- Designed MLOps pipeline for model training, versioning, and deployment
+- **Tech Stack**: PyTorch, Hugging Face, Python, MLOps tools
+
+### Immersify
+**Immersive Reading Experience for Kids & Visually Impaired (Hackathon Project)**
+- Developed an AI-powered app that creates immersive audio experiences during read-aloud sessions
+- Implemented real-time sound detection to trigger contextual audio (e.g., rain sounds when "rain" is read)
+- Designed for accessibility, enhancing engagement for children and blind readers
+- **Tech Stack**: AWS Bedrock, AWS Lambda, Python, Audio Processing APIs
+
+### Contract Management System
+**Enterprise Contract & Revenue Tracking Platform**
+- Built a full-stack SaaS solution for enterprise contract lifecycle management
+- Implemented CRUD operations, revenue projection dashboards, SSO authentication, and role-based access control
+- Delivered actionable insights through analytics dashboards for business decision-making
+- **Tech Stack**: React.js, Laravel, PHP, MySQL, REST APIs
+
+### [Perceptron From Scratch](https://github.com/athul-v-nair/perceptron-from-scratch)
+**Neural Network Fundamentals**
+- Implemented a perceptron from ground up using NumPy to understand core deep learning principles
+- Demonstrated forward propagation, backpropagation, and gradient descent without frameworks
+- **Tech Stack**: Python, NumPy
+
+---
+
+## 🛠️ Technical Skills
+
+**AI/ML & Data Science**
+- **Frameworks**: PyTorch, Scikit-learn, Hugging Face Transformers
+- **Core**: Deep Learning, NLP, Transformer Architectures, RAG Systems, Agentic AI
+- **Tools**: NumPy, Pandas, Matplotlib, AWS Bedrock, Google Gemini API, OpenAI API
+
+**Software Engineering**
+- **Languages**: Python, JavaScript, TypeScript, PHP
+- **Web**: React.js, Next.js, Laravel
+- **Database**: MySQL
+- **DevOps**: Docker, Git, Postman, Jira
+
+**Domain Experience**
+- Large-scale enterprise analytics implementation (Adobe Experience Platform)
+- Client engagement and stakeholder management
+- Data analysis and insights generation
+
+---
+
+## 📚 Certifications
+
+- Hugging Face Agentic AI Course
+- Python for Data Science by NPTEL
+
+---
+
+## 🌱 Areas of Interest
+
+- Natural Language Processing & Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI & Multi-Agent Systems
+- MLOps & Production ML Systems
+- Model Context Protocol (MCP)
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/athul-v-nair-dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:athulvnair2001@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@athulvinod.dev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.x.com/athul_vn)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.discordapp.com/users/445840585408905216)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19504260/athul-v-nair)
+
+---
+
+## 💡 Open to Opportunities
+
+I'm actively seeking **AI/ML Engineering roles** where I can apply my technical skills to build innovative, production-grade AI solutions. With a strong foundation in software engineering and hands-on experience in deep learning, I'm ready to contribute to impactful AI projects.
+
+**Location**: India | **Availability**: Open to remote and hybrid opportunities
+
+---
+
+*"Building the future, one model at a time."*
